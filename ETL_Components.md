@@ -5,6 +5,9 @@
 
 
 
+### Вариант исполнения схемы:
+![image](https://github.com/Iv0cheer/Data-analytics-1/assets/112684546/e64d9fde-f45e-4ef7-b986-81c9a984ee55)
+
 
 
 ### Solution (components):
